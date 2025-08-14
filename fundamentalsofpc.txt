@@ -49,3 +49,4 @@ Memory: Primary vs. Secondary
     Primary Memory: The computer's main, fast, but temporary memory. The two main types are RAM and ROM.
 
     Secondary Memory: The computer's permanent, long-term storage. Examples include a Hard Disk Drive (HDD) or a Solid-State Drive (SSD).
+    Got it ✅
