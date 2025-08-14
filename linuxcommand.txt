@@ -1,0 +1,117 @@
+#List of Linux Commands
+
+📂 File & Directory Management
+
+    pwd: Shows the current working directory's full path.
+
+    ls: Lists files and directories in the current directory.
+
+    cd: Changes the current directory.
+
+    mkdir: Creates a new directory.
+
+    rmdir: Removes an empty directory.
+
+    touch: Creates an empty file.
+
+    cp: Copies files or directories.
+
+    mv: Moves or renames files.
+
+    rm: Deletes files or directories.
+
+    find: Searches for files or directories.
+
+📝 File Viewing & Editing
+
+    cat: Displays the contents of a file.
+
+    nano: Edits a file using the Nano text editor.
+
+    vi / vim: Edits a file using the Vim text editor.
+
+    less: Views large files, allowing you to scroll page by page.
+
+    head: Shows the first few lines of a file.
+
+    tail: Shows the last few lines of a file.
+
+💻 System Information
+
+    uname -a: Displays detailed system information.
+
+    whoami: Shows the name of the current user.
+
+    date: Displays the current date and time.
+
+    uptime: Shows how long the system has been running.
+
+    df -h: Shows disk usage in a human-readable format.
+
+    du -sh: Shows the size of a specific directory.
+
+    free -h: Displays memory usage.
+
+    top: Shows a real-time list of running processes.
+
+    htop: An interactive and more user-friendly version of top.
+
+👤 User & Permission Management
+
+    who: Lists all users currently logged into the system.
+
+    id: Shows the user ID and group IDs for the current user.
+
+    chmod: Changes the permissions of a file or directory.
+
+    chown: Changes the owner of a file or directory.
+
+    passwd: Changes a user's password.
+
+📦 Package Management (Debian/Ubuntu)
+
+    sudo apt update: Updates the local list of available packages.
+
+    sudo apt upgrade: Upgrades all installed packages to their newest versions.
+
+    sudo apt install: Installs a new software package.
+
+    sudo apt remove: Uninstalls a software package.
+
+🌐 Networking
+
+    ping: Tests network connectivity to a specific address.
+
+    ifconfig / ip addr: Displays the system's IP address and network interface details.
+
+    wget: Downloads files from the internet via HTTP, HTTPS, or FTP.
+
+    curl: Transfers data to or from a server.
+
+    ssh: Connects to another computer securely over a network.
+
+💾 Archive & Compression
+
+    tar -cvf: Creates a new tar archive from files.
+
+    tar -xvf: Extracts files from a tar archive.
+
+    gzip: Compresses a file.
+
+    gunzip: Decompresses a gzipped file.
+
+    zip: Creates a ZIP archive.
+
+    unzip: Extracts files from a ZIP archive.
+
+⚙️ Miscellaneous
+
+    clear: Clears the terminal screen.
+
+    history: Shows a list of previously executed commands.
+
+    alias: Creates a shortcut for a command.
+
+    man: Displays the manual page for a command.
+
+    exit: Closes the current terminal session.
