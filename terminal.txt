@@ -1,0 +1,6 @@
+Why We Use Terminal in Linux
+
+The terminal is a text-based interface for interacting with the Linux operating system. 
+It offers efficiency, allowing faster execution of commands than a graphical user interface (GUI). 
+It provides control, giving you full access to system management. 
+Lastly, it enables automation, allowing you to write scripts to automate tasks.
